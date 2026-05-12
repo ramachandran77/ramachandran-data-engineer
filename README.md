@@ -85,9 +85,9 @@ Kafka + Spark Streaming + Hive pipeline for real-time analytics.
 
 # 📫 Contact
 
-- LinkedIn: https://linkedin.com/in/yourprofile
-- Email: yourmail@gmail.com
-- GitHub: https://github.com/yourusername
+- LinkedIn: www.linkedin.com/in/ramachandran-sandhappan-a1408b28/
+- Email: ramachandran77@gmail.com
+- GitHub: https://github.com/ramachandran77/ramachandran-data-engineer
 
 ---
 
