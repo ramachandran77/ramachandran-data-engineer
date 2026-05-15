@@ -9,13 +9,13 @@ I specialize in designing scalable enterprise-grade ETL pipelines, distributed d
 ## 🚀Project Experience:
 ## ERP Data Analytics using Power BI:
 SQL – Data Exploration and Mining, Power BI – Dashboard.
-	•	Analysed sales data of a hardware manufacturing company.
+	•	Analysed sales data of a Landscaping company.
 	•	Generated insights related to finance, sales, market, and supply chain analytics.
 	•	Used Snowflake schema format and ERD in MySQL to establish relationships between tables.
 	•	Utilised statistical functions for data aggregation and summarization.
 	•	Developed Stored Procedures for complex queries.
 	•	Established a pipeline to derive Key Metrics.
-	•	Generated reports on top markets, platforms, and customers.
+	•	Generated reports for bank balance,total sales, AR, AP and Profit Loss and Procurement Tracking.
 	•	Utilised metrics such as Net Error, Absolute Net Error, and Forecast Accuracy.
 	•	Connected Power BI to MySQL and Excel.
 	•	Transformed data using Power Query and Data Modelling.
@@ -27,7 +27,6 @@ SQL – Data Exploration and Mining, Power BI – Dashboard.
 	•	Incorporated stakeholder feedback to create an Executive Dashboard.
 	•	Resolved quality issues and optimised dashboard performance.
 	•	Deployed the dashboard to Power BI service with gateway setup to MySQL Database and local Excel files for Automatic Data Refresh.
-	•	Utilised Project Management Skills such as Project charter, stakeholder mapping analysis, and Kanban board for task assignment.
 	•	Designed a dashboard with up to three levels of analysis.
 	•	Asked stakeholders many “why’s” to improve overall business.
 
