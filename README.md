@@ -7,7 +7,7 @@ Experienced IT professional with 18+ years of expertise in Data Engineering, ETL
 I specialize in designing scalable enterprise-grade ETL pipelines, distributed data processing frameworks, cloud-ready architectures, and real-time analytics platforms.
 
 ## 🚀Project Experience:
-## ERP Data Analytics:
+## ERP Data Analytics using Power BI:
 SQL – Data Exploration and Mining, Power BI – Dashboard.
 	•	Analysed sales data of a hardware manufacturing company.
 	•	Generated insights related to finance, sales, market, and supply chain analytics.
